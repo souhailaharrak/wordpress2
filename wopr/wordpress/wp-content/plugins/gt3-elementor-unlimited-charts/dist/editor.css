@@ -1,0 +1,80 @@
+.elementor-control-type-gt3-repeatable-text{
+	width: 100%;
+}
+.elementor-control-type-gt3-elementor-core-repeatable-text{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.elementor-control-type-gt3-repeatable-text .control-repeatable-text-items{
+	clear: both;
+	margin-bottom: 10px;
+}
+.elementor-control-type-gt3-repeatable-text .control-repeatable-text-item{
+	display: inline-block;
+    vertical-align: middle;
+    padding: 5px;
+    border: 1px solid transparent;
+    background: #39b34a;
+    color: #fff;
+    border-radius: 4px;
+    margin: 16px 5px 5px 0;
+    position: relative;
+    z-index: 1;
+}
+.elementor-control-type-gt3-repeatable-text .control-repeatable-text-item.control-repeatable-text-item-color_mode{
+	color: #fff;
+    text-shadow: 0px 0px 3px rgba(0, 0, 0, 1);
+}
+.control-repeatable-title{
+	margin-bottom: 15px;
+}	
+.elementor-control-type-gt3-repeatable-text .control-repeatable-text-item .control-repeatable-text-item_remove{
+    position: absolute;
+    bottom: 110%;
+    left: 50%;
+    width: 14px;
+    height: 14px;
+    line-height: 14px;
+    text-align: center;
+    margin-left: -7px;
+    background: #d30c5d;
+    border-radius: 14px;
+    color: #fff;
+    font-size: 0;
+    opacity: 0;
+    cursor: pointer;
+    -webkit-transition: all .3s;
+    -o-transition: all .3s;
+    transition: all .3s;
+}
+.elementor-control-type-gt3-repeatable-text .control-repeatable-text-item:hover .control-repeatable-text-item_remove{
+	opacity: 1;
+}
+.elementor-control-type-gt3-repeatable-text .control-repeatable-text-item .control-repeatable-text-item_remove:before{
+	content: "\f00d";	
+    font-family: FontAwesome;
+    font-size: 9px;
+}
+.elementor-control-type-gt3-repeatable-text .control-gt3-repeatable-blank-wrapper{
+	width: calc(100% - 100px);
+	float: left;
+}
+.elementor-control-type-gt3-repeatable-text.color_mode .control-gt3-repeatable-blank-wrapper{
+	width: auto;
+}
+.elementor-control-type-gt3-repeatable-text .elementor-control-item-add{
+    width: 95px;
+    line-height: 26px;
+    height: 26px;
+    text-align: center;
+    float: right;
+    background-color: #39b44a;
+    color: #fff;
+    margin-left: 5px;
+}
+.elementor-control-type-gt3-repeatable-text.color_mode .elementor-control-item-add{
+	float: none;
+}
+.elementor-control-type-gt3-repeatable-text .elementor-control-item-add:hover{
+	opacity: .85;
+}

@@ -1,0 +1,40 @@
+[25-03-2022 08:59:39] Error E_WARNING: A non-numeric value encountered in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\libraries\bfi-thumb\bfi-thumb.php:748
+[25-03-2022 08:59:39] Error E_WARNING: A non-numeric value encountered in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\libraries\bfi-thumb\bfi-thumb.php:750
+[25-03-2022 08:59:39] Error E_WARNING: A non-numeric value encountered in C:\xampp\htdocs\wordpress\wp-includes\media.php:598
+[25-03-2022 08:59:39] Error E_WARNING: A non-numeric value encountered in C:\xampp\htdocs\wordpress\wp-includes\media.php:600
+[25-03-2022 08:59:39] Error E_WARNING: A non-numeric value encountered in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\libraries\bfi-thumb\bfi-thumb.php:748
+[25-03-2022 08:59:39] Error E_WARNING: A non-numeric value encountered in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\libraries\bfi-thumb\bfi-thumb.php:750
+[25-03-2022 08:59:39] Error E_WARNING: A non-numeric value encountered in C:\xampp\htdocs\wordpress\wp-includes\media.php:598
+[25-03-2022 08:59:39] Error E_WARNING: A non-numeric value encountered in C:\xampp\htdocs\wordpress\wp-includes\media.php:600
+[25-03-2022 08:59:39] Error E_WARNING: imagecreatetruecolor(): Invalid image dimensions in C:\xampp\htdocs\wordpress\wp-includes\media.php:3669
+[25-03-2022 08:59:39] Error E_WARNING: imagecopyresampled() expects parameter 1 to be resource, bool given in C:\xampp\htdocs\wordpress\wp-includes\class-wp-image-editor-gd.php:206
+[25-03-2022 09:00:42] Error E_WARNING: A non-numeric value encountered in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\libraries\bfi-thumb\bfi-thumb.php:748
+[25-03-2022 09:00:42] Error E_WARNING: A non-numeric value encountered in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\libraries\bfi-thumb\bfi-thumb.php:750
+[25-03-2022 09:00:42] Error E_WARNING: A non-numeric value encountered in C:\xampp\htdocs\wordpress\wp-includes\media.php:598
+[25-03-2022 09:00:42] Error E_WARNING: A non-numeric value encountered in C:\xampp\htdocs\wordpress\wp-includes\media.php:600
+[25-03-2022 09:00:42] Error E_WARNING: A non-numeric value encountered in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\libraries\bfi-thumb\bfi-thumb.php:748
+[25-03-2022 09:00:42] Error E_WARNING: A non-numeric value encountered in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\libraries\bfi-thumb\bfi-thumb.php:750
+[25-03-2022 09:00:42] Error E_WARNING: A non-numeric value encountered in C:\xampp\htdocs\wordpress\wp-includes\media.php:598
+[25-03-2022 09:00:42] Error E_WARNING: A non-numeric value encountered in C:\xampp\htdocs\wordpress\wp-includes\media.php:600
+[25-03-2022 09:00:42] Error E_WARNING: imagecreatetruecolor(): Invalid image dimensions in C:\xampp\htdocs\wordpress\wp-includes\media.php:3669
+[25-03-2022 09:00:42] Error E_WARNING: imagecopyresampled() expects parameter 1 to be resource, bool given in C:\xampp\htdocs\wordpress\wp-includes\class-wp-image-editor-gd.php:206
+[25-03-2022 09:25:50] Error E_WARNING: A non-numeric value encountered in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\libraries\bfi-thumb\bfi-thumb.php:748
+[25-03-2022 09:25:50] Error E_WARNING: A non-numeric value encountered in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\libraries\bfi-thumb\bfi-thumb.php:750
+[25-03-2022 09:25:50] Error E_WARNING: A non-numeric value encountered in C:\xampp\htdocs\wordpress\wp-includes\media.php:598
+[25-03-2022 09:25:50] Error E_WARNING: A non-numeric value encountered in C:\xampp\htdocs\wordpress\wp-includes\media.php:600
+[25-03-2022 09:25:50] Error E_WARNING: A non-numeric value encountered in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\libraries\bfi-thumb\bfi-thumb.php:748
+[25-03-2022 09:25:50] Error E_WARNING: A non-numeric value encountered in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\libraries\bfi-thumb\bfi-thumb.php:750
+[25-03-2022 09:25:50] Error E_WARNING: A non-numeric value encountered in C:\xampp\htdocs\wordpress\wp-includes\media.php:598
+[25-03-2022 09:25:50] Error E_WARNING: A non-numeric value encountered in C:\xampp\htdocs\wordpress\wp-includes\media.php:600
+[25-03-2022 09:25:50] Error E_WARNING: imagecreatetruecolor(): Invalid image dimensions in C:\xampp\htdocs\wordpress\wp-includes\media.php:3669
+[25-03-2022 09:25:50] Error E_WARNING: imagecopyresampled() expects parameter 1 to be resource, bool given in C:\xampp\htdocs\wordpress\wp-includes\class-wp-image-editor-gd.php:206
+[25-03-2022 10:08:55] Error E_WARNING: A non-numeric value encountered in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\libraries\bfi-thumb\bfi-thumb.php:748
+[25-03-2022 10:08:55] Error E_WARNING: A non-numeric value encountered in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\libraries\bfi-thumb\bfi-thumb.php:750
+[25-03-2022 10:08:55] Error E_WARNING: A non-numeric value encountered in C:\xampp\htdocs\wordpress\wp-includes\media.php:598
+[25-03-2022 10:08:55] Error E_WARNING: A non-numeric value encountered in C:\xampp\htdocs\wordpress\wp-includes\media.php:600
+[25-03-2022 10:08:55] Error E_WARNING: A non-numeric value encountered in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\libraries\bfi-thumb\bfi-thumb.php:748
+[25-03-2022 10:08:55] Error E_WARNING: A non-numeric value encountered in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\libraries\bfi-thumb\bfi-thumb.php:750
+[25-03-2022 10:08:55] Error E_WARNING: A non-numeric value encountered in C:\xampp\htdocs\wordpress\wp-includes\media.php:598
+[25-03-2022 10:08:55] Error E_WARNING: A non-numeric value encountered in C:\xampp\htdocs\wordpress\wp-includes\media.php:600
+[25-03-2022 10:08:55] Error E_WARNING: imagecreatetruecolor(): Invalid image dimensions in C:\xampp\htdocs\wordpress\wp-includes\media.php:3669
+[25-03-2022 10:08:55] Error E_WARNING: imagecopyresampled() expects parameter 1 to be resource, bool given in C:\xampp\htdocs\wordpress\wp-includes\class-wp-image-editor-gd.php:206

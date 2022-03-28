@@ -1,0 +1,558 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: WP Daddy Builder Pro\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wpda-builder-pro.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+
+#: core/class-edd-updater.php:241
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details"
+"%4$s."
+msgstr ""
+
+#: core/class-edd-updater.php:249
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details"
+"%4$s or %5$supdate now%6$s."
+msgstr ""
+
+#: core/class-edd-updater.php:496
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: core/class-edd-updater.php:496 core/class-settings.php:374
+msgid "Error"
+msgstr ""
+
+#: core/class-menu.php:24
+msgid "WPDaddy Header Builder Settings"
+msgstr ""
+
+#: core/class-menu.php:25 core/elementor/index.php:90
+msgid "WPDaddy Builder"
+msgstr ""
+
+#: core/class-settings.php:367
+msgid "Saved"
+msgstr ""
+
+#: core/elementor/modify/class-document.php:46
+#: core/elementor/modify/class-section.php:80
+msgid "WPDaddy Settings"
+msgstr ""
+
+#: core/elementor/modify/class-document.php:54
+msgid "Header Over Bg"
+msgstr ""
+
+#: core/elementor/modify/class-section.php:96
+msgid "Sticky"
+msgstr ""
+
+#: core/elementor/modify/class-section.php:107
+msgid "Background"
+msgstr ""
+
+#: core/elementor/modify/class-section.php:127
+msgid "Border"
+msgstr ""
+
+#: core/elementor/modify/class-section.php:137
+msgid "Normal"
+msgstr ""
+
+#: core/elementor/modify/class-section.php:152
+#: core/elementor/modify/class-section.php:189
+msgid "Border Radius"
+msgstr ""
+
+#: core/elementor/modify/class-section.php:174
+msgid "Hover"
+msgstr ""
+
+#: core/elementor/modify/class-section.php:209
+msgid "Transition Duration"
+msgstr ""
+
+#: core/elementor/modify/class-section.php:253
+#: core/elementor/widgets/login/trait-controls.php:54
+msgid "Typography"
+msgstr ""
+
+#: core/elementor/modify/class-section.php:261
+msgid "Heading Color"
+msgstr ""
+
+#: core/elementor/modify/class-section.php:274
+msgid "Text Color"
+msgstr ""
+
+#: core/elementor/modify/class-section.php:290
+msgid "Link Color"
+msgstr ""
+
+#: core/elementor/modify/class-section.php:308
+msgid "Link Hover Color"
+msgstr ""
+
+#: core/elementor/modify/class-section.php:326
+msgid "Text Align"
+msgstr ""
+
+#: core/elementor/modify/class-section.php:330
+#: core/elementor/widgets/cart/trait-controls.php:31
+#: core/elementor/widgets/delimiter/trait-controls.php:30
+#: core/elementor/widgets/login/trait-controls.php:31
+#: core/elementor/widgets/logo/trait-controls.php:150
+#: core/elementor/widgets/menu/trait-controls.php:41
+#: core/elementor/widgets/search/trait-controls.php:31
+#: core/elementor/widgets/woosearch/trait-controls.php:31
+msgid "Left"
+msgstr ""
+
+#: core/elementor/modify/class-section.php:334
+#: core/elementor/widgets/cart/trait-controls.php:35
+#: core/elementor/widgets/delimiter/trait-controls.php:34
+#: core/elementor/widgets/login/trait-controls.php:35
+#: core/elementor/widgets/logo/trait-controls.php:154
+#: core/elementor/widgets/menu/trait-controls.php:45
+#: core/elementor/widgets/search/trait-controls.php:35
+#: core/elementor/widgets/woosearch/trait-controls.php:35
+msgid "Center"
+msgstr ""
+
+#: core/elementor/modify/class-section.php:338
+#: core/elementor/widgets/cart/trait-controls.php:39
+#: core/elementor/widgets/delimiter/trait-controls.php:38
+#: core/elementor/widgets/login/trait-controls.php:39
+#: core/elementor/widgets/logo/trait-controls.php:158
+#: core/elementor/widgets/menu/trait-controls.php:49
+#: core/elementor/widgets/search/trait-controls.php:39
+#: core/elementor/widgets/woosearch/trait-controls.php:39
+msgid "Right"
+msgstr ""
+
+#: core/elementor/widgets/burger-sidebar/index.php:23
+msgid "Burger Sidebar"
+msgstr ""
+
+#: core/elementor/widgets/burger-sidebar/trait-controls.php:20
+#: core/elementor/widgets/cart/trait-controls.php:20
+#: core/elementor/widgets/delimiter/trait-controls.php:19
+#: core/elementor/widgets/login/trait-controls.php:20
+#: core/elementor/widgets/logo/trait-controls.php:20
+#: core/elementor/widgets/menu/trait-controls.php:20
+#: core/elementor/widgets/search/trait-controls.php:20
+#: core/elementor/widgets/woosearch/trait-controls.php:20
+msgid "General"
+msgstr ""
+
+#: core/elementor/widgets/burger-sidebar/trait-controls.php:27
+msgid "Select Sidebar"
+msgstr ""
+
+#: core/elementor/widgets/cart/index.php:23
+msgid "Cart"
+msgstr ""
+
+#: core/elementor/widgets/cart/trait-controls.php:27
+#: core/elementor/widgets/delimiter/trait-controls.php:26
+#: core/elementor/widgets/login/trait-controls.php:27
+#: core/elementor/widgets/logo/trait-controls.php:146
+#: core/elementor/widgets/menu/trait-controls.php:37
+#: core/elementor/widgets/search/trait-controls.php:27
+#: core/elementor/widgets/woosearch/trait-controls.php:27
+msgid "Alignment"
+msgstr ""
+
+#: core/elementor/widgets/cart/trait-controls.php:53
+#: core/elementor/widgets/menu/trait-controls.php:63
+#: core/elementor/widgets/search/trait-controls.php:53
+#: core/elementor/widgets/woosearch/trait-controls.php:53
+msgid "Custom Settings"
+msgstr ""
+
+#: core/elementor/widgets/cart/trait-controls.php:62
+#: core/elementor/widgets/search/trait-controls.php:62
+#: core/elementor/widgets/woosearch/trait-controls.php:62
+msgid "Icon Color"
+msgstr ""
+
+#: core/elementor/widgets/cart/trait-controls.php:78
+#: core/elementor/widgets/search/trait-controls.php:77
+#: core/elementor/widgets/woosearch/trait-controls.php:77
+msgid "Icon Font Size"
+msgstr ""
+
+#: core/elementor/widgets/cart/trait-controls.php:92
+#: core/elementor/widgets/cart/trait-controls.php:179
+#: core/elementor/widgets/menu/trait-controls.php:132
+#: core/elementor/widgets/menu/trait-controls.php:157
+#: core/elementor/widgets/search/trait-controls.php:91
+#: core/elementor/widgets/search/trait-controls.php:148
+#: core/elementor/widgets/woosearch/trait-controls.php:91
+#: core/elementor/widgets/woosearch/trait-controls.php:148
+msgid "Enter spacing in pixels."
+msgstr ""
+
+#: core/elementor/widgets/cart/trait-controls.php:106
+msgid "Icon Count Background Color"
+msgstr ""
+
+#: core/elementor/widgets/cart/trait-controls.php:121
+msgid "Icon Count Color"
+msgstr ""
+
+#: core/elementor/widgets/cart/trait-controls.php:136
+msgid "Cart Width"
+msgstr ""
+
+#: core/elementor/widgets/cart/trait-controls.php:150
+#: core/elementor/widgets/delimiter/trait-controls.php:81
+#: core/elementor/widgets/menu/trait-controls.php:247
+#: core/elementor/widgets/search/trait-controls.php:119
+#: core/elementor/widgets/woosearch/trait-controls.php:119
+msgid "Enter width in pixels."
+msgstr ""
+
+#: core/elementor/widgets/cart/trait-controls.php:165
+msgid "Spacing Above the Cart"
+msgstr ""
+
+#: core/elementor/widgets/cart/trait-controls.php:194
+msgid "Cart Background Color"
+msgstr ""
+
+#: core/elementor/widgets/cart/trait-controls.php:210
+msgid "Cart Text Color"
+msgstr ""
+
+#: core/elementor/widgets/cart/trait-controls.php:225
+msgid "Remove Icon Color"
+msgstr ""
+
+#: core/elementor/widgets/cart/trait-controls.php:240
+msgid "Buttons Background Color"
+msgstr ""
+
+#: core/elementor/widgets/cart/trait-controls.php:255
+msgid "Buttons Color"
+msgstr ""
+
+#: core/elementor/widgets/cart/trait-controls.php:270
+msgid "Custom Checkout Button"
+msgstr ""
+
+#: core/elementor/widgets/cart/trait-controls.php:282
+#: core/elementor/widgets/cart/trait-controls.php:298
+msgid "Checkout Button Background Color"
+msgstr ""
+
+#: core/elementor/widgets/delimiter/index.php:24
+msgid "Delimiter"
+msgstr ""
+
+#: core/elementor/widgets/delimiter/trait-controls.php:45
+#: core/elementor/widgets/logo/trait-controls.php:165
+#: core/elementor/widgets/menu/trait-controls.php:56
+msgid ""
+"Available only if the element is not inline. Otherwise column alignment "
+"applies."
+msgstr ""
+
+#: core/elementor/widgets/delimiter/trait-controls.php:52
+#: core/elementor/widgets/login/trait-controls.php:62
+msgid "Color"
+msgstr ""
+
+#: core/elementor/widgets/delimiter/trait-controls.php:67
+msgid "Width"
+msgstr ""
+
+#: core/elementor/widgets/delimiter/trait-controls.php:95
+msgid "Height"
+msgstr ""
+
+#: core/elementor/widgets/login/index.php:23
+msgid "Login"
+msgstr ""
+
+#: core/elementor/widgets/login/trait-render.php:37
+msgid "Login / Register"
+msgstr ""
+
+#: core/elementor/widgets/logo/index.php:23
+msgid "Logo"
+msgstr ""
+
+#: core/elementor/widgets/logo/trait-controls.php:27
+msgid "Header Logo"
+msgstr ""
+
+#: core/elementor/widgets/logo/trait-controls.php:38
+msgid "Enable Logo Height"
+msgstr ""
+
+#: core/elementor/widgets/logo/trait-controls.php:50
+msgid "Set Logo Height"
+msgstr ""
+
+#: core/elementor/widgets/logo/trait-controls.php:64
+msgid "Enter logo height in pixels."
+msgstr ""
+
+#: core/elementor/widgets/logo/trait-controls.php:79
+msgid "Enable Custom Link"
+msgstr ""
+
+#: core/elementor/widgets/logo/trait-controls.php:88
+msgid "Custom Logo Link"
+msgstr ""
+
+#: core/elementor/widgets/logo/trait-controls.php:90
+msgid "Add Link to Logo."
+msgstr ""
+
+#: core/elementor/widgets/logo/trait-controls.php:106
+msgid "Logo Typography"
+msgstr ""
+
+#: core/elementor/widgets/logo/trait-controls.php:117
+msgid "Logo Text Color"
+msgstr ""
+
+#: core/elementor/widgets/logo/trait-controls.php:132
+msgid "Sticky Logo"
+msgstr ""
+
+#: core/elementor/widgets/menu/index.php:23
+msgid "Menu"
+msgstr ""
+
+#: core/elementor/widgets/menu/trait-controls.php:27
+msgid "Select Menu"
+msgstr ""
+
+#: core/elementor/widgets/menu/trait-controls.php:73
+msgid "Menu Typography"
+msgstr ""
+
+#: core/elementor/widgets/menu/trait-controls.php:84
+#: core/elementor/widgets/menu/trait-controls.php:270
+msgid "Menu Text Color"
+msgstr ""
+
+#: core/elementor/widgets/menu/trait-controls.php:99
+#: core/elementor/widgets/menu/trait-controls.php:285
+msgid "Menu Text Color (Active and Hover)"
+msgstr ""
+
+#: core/elementor/widgets/menu/trait-controls.php:118
+msgid "Spacing Between Menu Items"
+msgstr ""
+
+#: core/elementor/widgets/menu/trait-controls.php:146
+msgid "Menu Height"
+msgstr ""
+
+#: core/elementor/widgets/menu/trait-controls.php:173
+msgid "Sub Menu Typography"
+msgstr ""
+
+#: core/elementor/widgets/menu/trait-controls.php:184
+msgid "Sub Menu Background"
+msgstr ""
+
+#: core/elementor/widgets/menu/trait-controls.php:199
+#: core/elementor/widgets/menu/trait-controls.php:319
+msgid "Sub Menu Text Color"
+msgstr ""
+
+#: core/elementor/widgets/menu/trait-controls.php:214
+#: core/elementor/widgets/menu/trait-controls.php:334
+msgid "Sub Menu Text Color (Active and Hover)"
+msgstr ""
+
+#: core/elementor/widgets/menu/trait-controls.php:233
+msgid "Sub Menu Width"
+msgstr ""
+
+#: core/elementor/widgets/menu/trait-controls.php:261
+msgid "Custom Mobile Settings"
+msgstr ""
+
+#: core/elementor/widgets/menu/trait-controls.php:304
+msgid "Menu Background"
+msgstr ""
+
+#: core/elementor/widgets/menu/trait-controls.php:353
+msgid "Mobile Icon Color"
+msgstr ""
+
+#: core/elementor/widgets/menu/trait-controls.php:368
+msgid "Mobile Icon Color (Active)"
+msgstr ""
+
+#: core/elementor/widgets/search/index.php:23
+#: core/library/class-footer.php:64 core/library/class-header.php:64
+msgid "Search"
+msgstr ""
+
+#: core/elementor/widgets/search/trait-controls.php:105
+#: core/elementor/widgets/woosearch/trait-controls.php:105
+msgid "Field Width (Open State)"
+msgstr ""
+
+#: core/elementor/widgets/search/trait-controls.php:134
+#: core/elementor/widgets/woosearch/trait-controls.php:134
+msgid "Spacing Above the Field"
+msgstr ""
+
+#: core/elementor/widgets/search/trait-controls.php:162
+#: core/elementor/widgets/woosearch/trait-controls.php:162
+msgid "Field Background Color"
+msgstr ""
+
+#: core/elementor/widgets/search/trait-controls.php:177
+#: core/elementor/widgets/woosearch/trait-controls.php:177
+msgid "Field Text Color"
+msgstr ""
+
+#: core/elementor/widgets/search/trait-controls.php:193
+#: core/elementor/widgets/woosearch/trait-controls.php:193
+msgid "Search Icon Color"
+msgstr ""
+
+#: core/elementor/widgets/woosearch/index.php:23
+msgid "WooSearch"
+msgstr ""
+
+#: core/library/class-footer.php:38 core/library/class-header.php:38
+msgid "Title"
+msgstr ""
+
+#: core/library/class-footer.php:39 core/library/class-header.php:39
+msgid "Status"
+msgstr ""
+
+#: core/library/class-footer.php:40 core/library/class-header.php:40
+msgid "Conditions"
+msgstr ""
+
+#: core/library/class-footer.php:41 core/library/class-header.php:41
+msgid "Date"
+msgstr ""
+
+#: core/library/class-footer.php:53 core/library/class-header.php:53
+msgid "Active"
+msgstr ""
+
+#: core/library/class-footer.php:54 core/library/class-header.php:54
+msgid "Inactive"
+msgstr ""
+
+#: core/library/class-footer.php:59 core/library/class-header.php:59
+msgid "None"
+msgstr ""
+
+#: core/library/class-footer.php:60 core/library/class-header.php:60
+msgid "All Pages"
+msgstr ""
+
+#: core/library/class-footer.php:61 core/library/class-header.php:61
+msgid "Posts"
+msgstr ""
+
+#: core/library/class-footer.php:62 core/library/class-header.php:62
+msgid "Pages"
+msgstr ""
+
+#: core/library/class-footer.php:63 core/library/class-header.php:63
+msgid "Singular"
+msgstr ""
+
+#: core/library/class-footer.php:65 core/library/class-header.php:65
+msgid "404"
+msgstr ""
+
+#: core/library/class-footer.php:66 core/library/class-header.php:66
+msgid "Archive"
+msgstr ""
+
+#: core/library/class-footer.php:67 core/library/class-header.php:67
+msgid "Homepage"
+msgstr ""
+
+#: core/library/class-footer.php:68 core/library/class-header.php:68
+msgid "Shop"
+msgstr ""
+
+#: core/library/class-footer.php:106
+msgid "Edit Footer"
+msgstr ""
+
+#: core/library/class-footer.php:113 core/library/class-header.php:113
+msgid "Settings"
+msgstr ""
+
+#: core/library/class-footer.php:158 core/library/class-header.php:158
+msgid "Single"
+msgstr ""
+
+#: core/library/class-footer.php:180
+msgid "WPDaddy Footer"
+msgstr ""
+
+#: core/library/class-header.php:106
+msgid "Edit Header"
+msgstr ""
+
+#: core/library/class-header.php:180
+msgid "WPDaddy Header"
+msgstr ""
+
+#: core/trait-rest.php:94 core/trait-rest.php:154
+msgid "No Title"
+msgstr ""
+
+#: wpda-builder-pro.php:73
+msgid "Activate Elementor"
+msgstr ""
+
+#: wpda-builder-pro.php:82
+msgid "Install Elementor"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#. Description of the plugin/theme
+msgid "WP Daddy Builder Pro"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://wpdaddy.com/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WP Daddy"
+msgstr ""
